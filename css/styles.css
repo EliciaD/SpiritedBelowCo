@@ -46,8 +46,12 @@ a .btn {
 .social ul li{display: inline;
 }
 .twitter-mention-button{
-	padding-top:6px;
+	padding-top:0px;
+	float:right;
 }
+
+iframe{height: 30px; width:65px; padding-right: 10px; float:right;}
+
 /*
 my blue 2c3e50
 gold a2791f
