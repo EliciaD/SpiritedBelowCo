@@ -1,0 +1,59 @@
+body{
+background-color: #ecf0f1;
+}
+.well img{
+	width:100%;
+	height: auto;
+	opacity:1.0;
+}
+.well img:hover{
+	opacity:0.5;
+	  
+}
+
+#logo{
+	width:100px;
+	float: left;
+}
+#logo img{
+	width:100px;
+	padding: 10px;
+	border-radius: 15px;
+}
+h1{
+	font-family: header;
+	text-align: center;
+	color: #fff;
+	font-size: 4em;
+}
+.navbar-inverse{
+	background-color: #6e0408;
+	
+	
+}
+
+@font-face {
+    font-family: header;
+    src: url(../fonts/Mathlete-Skinny.otf);
+}
+
+a .btn {
+	display: none;
+
+
+}
+
+.social ul li{display: inline;
+}
+.twitter-mention-button{
+	padding-top:6px;
+}
+/*
+my blue 2c3e50
+gold a2791f
+red 6e0408
+grey a2a1a6
+black
+
+
+*/
